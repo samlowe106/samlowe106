@@ -1,3 +1,5 @@
+I'm Samuel Lowe (he/him), a mathematician, data scientist, and full-stack web developer in the greater Boston area. I graduated from Northeastern University with a B.S. in Computer Science and Mathematics in 2023 and an M.S. in Applied Math in 2025, mostly focusing on probability and number theory (with a focus in [elliptic curves](https://samlowe.dev/assets/pdf/elliptic_curves.pdf)). Some of my projects, like [nprcore.me](https://github.com/jordanbuchman/npr-core) have been recognized by [National Public Radio](https://twitter.com/npratc/status/1379189469014851589) and [All Things Considered](https://twitter.com/NPRinterns/status/1379191512773316612). You can find more at my website, [samlowe.dev](https://samlowe.dev) and check out my full [portfolio](https://samlowe.dev/portfolio).
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,py,cs,c,cpp" />
