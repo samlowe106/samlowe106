@@ -1,7 +1,9 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,py,cs,c,cpp" />
+    <br>    
     <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,fastapi,django" />
+    <br>
     <img src="https://skillicons.dev/icons?i=git,githubactions,docker,latex,linux,windows,vscode" />
   </a>
 </p>
