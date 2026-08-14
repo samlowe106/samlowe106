@@ -57,4 +57,3 @@ I'm currently consulting as a data analyst at the [Center for Strategic Politics
     <img src="https://samlowe.dev/assets/img/skills/github.svg" alt="GitHub" title="GitHub" width="48" height="48">
     <img src="https://samlowe.dev/assets/img/skills/claude.svg" alt="Claude" title="Claude" width="48" height="48">
 </p>
- or less) my own and do not represent the views or opinions of my employer(s). Most of the skill icons above come from [skill-icons](https://github.com/tandpfun/skill-icons) (MIT) and [Simple Icons](https://simpleicons.org) (CC0); the rest are each project's own logo.</i></sub>
