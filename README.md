@@ -55,5 +55,4 @@ I'm currently consulting as a data analyst at the [Center for Strategic Politics
     <img src="https://samlowe.dev/assets/img/skills/vscode.svg" alt="VS Code" title="VS Code" width="48" height="48">
     <img src="https://samlowe.dev/assets/img/skills/uv.svg" alt="uv" title="uv" width="48" height="48">
     <img src="https://samlowe.dev/assets/img/skills/github.svg" alt="GitHub" title="GitHub" width="48" height="48">
-    <img src="https://samlowe.dev/assets/img/skills/claude.svg" alt="Claude" title="Claude" width="48" height="48">
 </p>
